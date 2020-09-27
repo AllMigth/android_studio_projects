@@ -1,0 +1,2 @@
+rootProject.name='CF-TableLayout-TableRow'
+include ':app'

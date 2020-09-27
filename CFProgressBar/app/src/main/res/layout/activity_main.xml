@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <!-- style="?android:attr/progressBarStyleHorizontal-->
+    <!-- INDETERMINATE CON SUS ATRIBUTOS
+
+        android:indeterminate="true"
+        android:indeterminateBehavior="cycle"
+        android:indeterminateDuration="200000"
+        android:indeterminateOnly="true"
+    -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:max="100"
+        android:progress="0" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="add"
+        android:text="Button" />
+</LinearLayout>

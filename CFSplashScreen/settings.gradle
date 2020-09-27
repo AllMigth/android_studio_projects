@@ -1,0 +1,2 @@
+rootProject.name='CF-SplashScreen'
+include ':app'

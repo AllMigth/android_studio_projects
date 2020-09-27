@@ -1,0 +1,2 @@
+rootProject.name='CF-ViewFlipper'
+include ':app'

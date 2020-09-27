@@ -1,0 +1,2 @@
+rootProject.name='CF-Styles'
+include ':app'

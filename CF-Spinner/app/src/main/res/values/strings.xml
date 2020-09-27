@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CF-Adapter</string>
+    <string name="spinnerDialog">titulo del string</string>
+</resources>

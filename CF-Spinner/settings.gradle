@@ -1,0 +1,2 @@
+rootProject.name='CF-Adapter'
+include ':app'

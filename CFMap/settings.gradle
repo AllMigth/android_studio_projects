@@ -1,0 +1,2 @@
+rootProject.name='CF-Map'
+include ':app'

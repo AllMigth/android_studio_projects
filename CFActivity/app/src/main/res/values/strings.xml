@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CF-Activity</string>
+    <string name="titulo">Es un placer verte aqui.</string>
+    <string name="backButton">Back</string>
+    <string name="DescriptionTextWelcome">Bienvenido a SoftYon</string>
+
+</resources>
