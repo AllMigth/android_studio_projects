@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133645878953",
+    "project_id": "iotmanta",
+    "storage_bucket": "iotmanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133645878953:android:441292d8fcf1b77cad0bb8",
+        "android_client_info": {
+          "package_name": "com.barona.iotmanta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133645878953-b4r5h2vap7hs5jthantmfk1li0q5vmd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7LHG67we8A2jEatJ6JD6uqcmhFQVQL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133645878953-b4r5h2vap7hs5jthantmfk1li0q5vmd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
